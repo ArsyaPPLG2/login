@@ -2,8 +2,8 @@
 // Periksa apakah form telah disubmit
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Gantilah ini dengan logika autentikasi yang sesuai
-    $username = "username_anda";
-    $password = "password_anda";
+    $username = "Ryu_r0";
+    $password = "200307";
 
     $input_username = $_POST["username"];
     $input_password = $_POST["password"];
