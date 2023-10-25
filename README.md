@@ -1,5 +1,5 @@
 # login
-//<Doctype html>
+<Doctype html>
 <html>
 <head>
      <title>Form Login</title>
